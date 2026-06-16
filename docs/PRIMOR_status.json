@@ -1,8 +1,159 @@
 {
   "garagem": "PRIMOR",
-  "online": 0,
-  "offline": "ERRO",
-  "last_update": "2026-06-16T16:59:46.195136-03:00",
-  "panel_url": "N/A",
-  "tgs_history": []
+  "online": 153,
+  "offline": 7,
+  "last_update": "2026-06-16T17:56:02.838105-03:00",
+  "panel_url": "https://monitoramentov3lan.github.io/primor/COMUNICAÇÕES_PRIMOR.html",
+  "tgs_history": [
+    {
+      "data": "15/06/2026",
+      "count": 248,
+      "filename": "TGs_20260615.txt"
+    },
+    {
+      "data": "14/06/2026",
+      "count": 104,
+      "filename": "TGs_20260614.txt"
+    },
+    {
+      "data": "13/06/2026",
+      "count": 182,
+      "filename": "TGs_20260613.txt"
+    },
+    {
+      "data": "12/06/2026",
+      "count": 258,
+      "filename": "TGs_20260612.txt"
+    },
+    {
+      "data": "11/06/2026",
+      "count": 252,
+      "filename": "TGs_20260611.txt"
+    },
+    {
+      "data": "10/06/2026",
+      "count": 251,
+      "filename": "TGs_20260610.txt"
+    },
+    {
+      "data": "09/06/2026",
+      "count": 262,
+      "filename": "TGs_20260609.txt"
+    },
+    {
+      "data": "08/06/2026",
+      "count": 261,
+      "filename": "TGs_20260608.txt"
+    },
+    {
+      "data": "07/06/2026",
+      "count": 113,
+      "filename": "TGs_20260607.txt"
+    },
+    {
+      "data": "06/06/2026",
+      "count": 181,
+      "filename": "TGs_20260606.txt"
+    },
+    {
+      "data": "05/06/2026",
+      "count": 177,
+      "filename": "TGs_20260605.txt"
+    },
+    {
+      "data": "04/06/2026",
+      "count": 119,
+      "filename": "TGs_20260604.txt"
+    },
+    {
+      "data": "03/06/2026",
+      "count": 248,
+      "filename": "TGs_20260603.txt"
+    },
+    {
+      "data": "02/06/2026",
+      "count": 241,
+      "filename": "TGs_20260602.txt"
+    },
+    {
+      "data": "01/06/2026",
+      "count": 253,
+      "filename": "TGs_20260601.txt"
+    },
+    {
+      "data": "31/05/2026",
+      "count": 113,
+      "filename": "TGs_20260531.txt"
+    },
+    {
+      "data": "30/05/2026",
+      "count": 180,
+      "filename": "TGs_20260530.txt"
+    },
+    {
+      "data": "29/05/2026",
+      "count": 257,
+      "filename": "TGs_20260529.txt"
+    },
+    {
+      "data": "28/05/2026",
+      "count": 257,
+      "filename": "TGs_20260528.txt"
+    },
+    {
+      "data": "27/05/2026",
+      "count": 249,
+      "filename": "TGs_20260527.txt"
+    },
+    {
+      "data": "26/05/2026",
+      "count": 255,
+      "filename": "TGs_20260526.txt"
+    },
+    {
+      "data": "25/05/2026",
+      "count": 253,
+      "filename": "TGs_20260525.txt"
+    },
+    {
+      "data": "24/05/2026",
+      "count": 115,
+      "filename": "TGs_20260524.txt"
+    },
+    {
+      "data": "23/05/2026",
+      "count": 173,
+      "filename": "TGs_20260523.txt"
+    },
+    {
+      "data": "22/05/2026",
+      "count": 263,
+      "filename": "TGs_20260522.txt"
+    },
+    {
+      "data": "21/05/2026",
+      "count": 257,
+      "filename": "TGs_20260521.txt"
+    },
+    {
+      "data": "20/05/2026",
+      "count": 262,
+      "filename": "TGs_20260520.txt"
+    },
+    {
+      "data": "19/05/2026",
+      "count": 265,
+      "filename": "TGs_20260519.txt"
+    },
+    {
+      "data": "18/05/2026",
+      "count": 253,
+      "filename": "TGs_20260518.txt"
+    },
+    {
+      "data": "17/05/2026",
+      "count": 113,
+      "filename": "TGs_20260517.txt"
+    }
+  ]
 }
